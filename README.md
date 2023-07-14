@@ -80,7 +80,7 @@
 	  //4
     function num4()
     {
-    let style = "<style>\ndiv{\nborder: 2px solid black;\nbackground-color: black;\nborder-radius: 100% 0 0 100% / 50% 0 0 50%;\nwidth: 100px;\nheight: 200px;\n}\n</style>\n<div></div>";
+    let style = "<style>\ndiv{\nborder: 2px solid black;\nbackground-color: green;\nborder-radius: 100% 0 0 100% / 50% 0 0 50%;\nwidth: 100px;\nheight: 200px;\n}\n</style>\n<div></div>";
     document.write(style)
     }
     
